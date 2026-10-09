@@ -1,0 +1,15 @@
+einops==0.8.2
+h5py==3.16.0
+kornia==0.8.3
+matplotlib==3.10.8
+numpy==1.26.4
+pytest==9.1.1
+salesforce-lavis==1.0.2
+scikit-image==0.26.0
+scikit-learn==1.9.1
+scipy==1.17.1
+tensorboardX==2.6.5
+timm==0.4.12
+tqdm==4.67.3
+transformers==4.26.1
+triton-windows==3.7.1.post27; platform_system == "Windows"
