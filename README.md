@@ -80,6 +80,7 @@ python Train_stage2.py
 ```
 
 ## Cite
+```bash
 @article{ge2026common,
   title={Common and Unique Representations for Multi-Focus Image Fusion: A Feature Decomposition Paradigm With Text-Driven Enhancement},
   author={Ge, Mingyu and Wang, Zeyu and Zhang, Jizheng and Song, Haiyu and Duan, Haoran and Ojha, Varun and Long, Yang},
@@ -87,6 +88,7 @@ python Train_stage2.py
   year={2026},
   publisher={IEEE}
 }
+```
 
 ## License
 
